@@ -37,6 +37,7 @@ Today, I work across the intersection of **technology, business, music, and crea
 
 ## Connect
 
+- **LinkedIn:** [linkedin.com/in/elisonjmorban](https://www.linkedin.com/in/elisonjmorban)
 - **DevHouse AI:** [devhouseai.com](https://devhouseai.com)
 - **ELISON INC:** [github.com/ElisonInc](https://github.com/ElisonInc)
 - **GitHub:** [github.com/emorban](https://github.com/emorban)
