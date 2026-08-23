@@ -1,45 +1,51 @@
 # Elison Morban
 
-### Technical Founder & Product Systems Leader
+### Technical Founder · AI Product & Systems
 
-I build AI-powered products, SaaS platforms, automation systems, and creative technology — with a focus on turning real operational problems into working software.
+I design and ship software at the intersection of **AI, SaaS, automation, and creative technology**. I’m the founder of **ELISON INC** and lead product and systems work for **DevHouse AI**, an AI automation platform for service businesses.
 
-I'm the founder of **ELISON INC** and lead product and systems architecture for **[DevHouse AI](https://devhouseai.com)**, an AI automation platform for service businesses. My work spans product strategy, system design, integrations, security requirements, testing, production readiness, operations, and go-to-market.
+My work spans product strategy, system architecture, workflow design, integrations, implementation direction, code and agent-output review, end-to-end QA, production readiness, and shipping.
 
-I work with AI coding agents as part of the development process: defining architecture and technical requirements, directing implementation, reviewing outputs, testing behavior, and iterating systems toward production.
+> I use AI coding agents as development collaborators — I define the problem, architecture, constraints, and acceptance criteria; direct implementation; review the output; test the system; and iterate it toward production.
 
-## Selected Work
+## Featured work
 
-### [DevHouse AI](https://github.com/ElisonInc/devhouse-ai-website)
-AI automation systems for service businesses. Product work includes AI voice, CRM and lead workflows, scheduling automation, internal operational tooling, APIs, analytics, monitoring, and production-readiness testing.
+| Project | What it demonstrates | Stack / themes |
+| --- | --- | --- |
+| **[DevHouse AI](https://github.com/emorban/devhouse-ai)** · [Live](https://devhouseai.com) | Public engineering portfolio for a production AI automation platform: voice AI, lead orchestration, CRM workflows, booking, consent, reliability, and operational visibility. | TypeScript, React, Astro, PostgreSQL, Retell, Twilio, OpenAI, Twenty CRM, Vercel |
+| **[Eclipse Memory](https://github.com/emorban/eclipse-memory)** | Early persistent-agent prototype exploring long-term memory, tool use, sub-agent orchestration, and personal automation. | Agents, memory systems, orchestration, local tooling |
+| **[Elison’s World](https://github.com/emorban/elison-world-website)** · [Live](https://elisonworld.com) | Cinematic artist web experience and reusable creative-tech template with prerendering, motion, accessibility, and performance checks. | React 19, TypeScript, Vite, GSAP, Three.js, Playwright, Lighthouse |
+| **[OneTime Studios](https://github.com/ElisonInc/onetime-studios)** | Recording-studio marketplace prototype with authentication, inventory, booking architecture, payments, and database security. | Next.js, TypeScript, Supabase, Clerk, Stripe Connect |
+| **[SongSplit](https://github.com/ElisonInc/songsplit-app)** · [Live](https://songsplit.org) | Music-tech workflow for documenting master/publishing ownership, agreement capture, record integrity, and exports. | JavaScript, Supabase, Realtime, PWA, SHA-256, jsPDF |
 
-### [Eclipse Memory](https://github.com/emorban/eclipse-memory)
-An early experiment in persistent AI systems exploring long-term memory, agent behavior, tool use, orchestration, and personal automation. It documents an earlier stage of the broader Eclipse project rather than its current architecture.
+## How I build
 
-### [Elison's World](https://github.com/emorban/elison-world-website)
-An experimental website template for artists, developed with my own artist identity as the first case study. The project explores cinematic web design, storytelling, reusable content architecture, and artist-focused digital experiences.
+**1. Start with the workflow.** Understand the customer, operator, failure modes, and business outcome before choosing the implementation.
 
-### [OneTime Studios](https://github.com/ElisonInc/onetime-studios)
-An experimental marketplace prototype exploring how recording studios could expose availability, bookings, payments, and owner workflows through a modern software platform.
+**2. Design the system boundary.** Define what owns truth, where integrations enter, what can write state, what must be observable, and how degraded conditions behave.
 
-### [SongSplit](https://github.com/ElisonInc/songsplit-app)
-A music-tech product experiment focused on documenting ownership splits and contributor agreements at the point of creation.
+**3. Direct implementation.** Break the system into concrete interfaces, schemas, acceptance criteria, and testable milestones; use both direct coding and AI-assisted development where appropriate.
 
-## What I Work On
+**4. Verify before calling it done.** Review code and behavior, test the real path end to end, inspect failures, and separate “built” from “actually working.”
 
-`AI Systems` · `Technical Product` · `SaaS` · `System Architecture` · `APIs` · `Automation` · `Agentic Workflows` · `CRM Integrations` · `Testing & QA` · `Product Strategy`
+## Areas I work in
+
+`AI Systems` · `Technical Product` · `SaaS` · `System Architecture` · `Agentic Workflows` · `APIs` · `Automation` · `CRM Integrations` · `Voice AI` · `Testing & QA` · `Product Strategy`
+
+## DevHouse AI: public vs. private
+
+The full DevHouse production repository is private because it contains operational runbooks, provider-specific monitoring, environment configuration, and internal implementation details. The **[public DevHouse engineering portfolio](https://github.com/emorban/devhouse-ai)** contains sanitized architecture, representative code, and engineering decisions that hiring teams and technical partners can inspect safely.
 
 ## Background
 
-My path into technology started in operations, team leadership, and sales. That background shapes how I build: understand the customer and workflow first, then design the system around the real problem.
+My path into technology came through operations, sales, team leadership, and building businesses. That background shapes how I approach software: the system has to work in the real workflow, not just look good in a demo.
 
-Today, I work across the intersection of **technology, business, music, and creative products** through ELISON INC.
+Today I build across **technology, business, music, and creative products** through ELISON INC.
 
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/elisonjmorban](https://www.linkedin.com/in/elisonjmorban)
 - **DevHouse AI:** [devhouseai.com](https://devhouseai.com)
 - **ELISON INC:** [github.com/ElisonInc](https://github.com/ElisonInc)
-- **GitHub:** [github.com/emorban](https://github.com/emorban)
 
-I'm open to **strategic partnerships and technical product opportunities**, especially where AI, automation, SaaS, and real-world operations intersect.
+I’m open to **technical product, AI product, product systems, and strategic partnership opportunities** where AI and software need to connect to real-world operations.
