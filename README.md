@@ -14,7 +14,7 @@ If you have five minutes, start with these three:
 
 1. **[DevHouse AI case study](https://github.com/emorban/devhouse-ai/blob/main/docs/CASE-STUDY.md)** — product architecture, workflow boundaries, AI normalization, consent, reliability, and what I owned.
 2. **[Eclipse AI architecture](https://github.com/emorban/eclipse-ai/blob/main/docs/ARCHITECTURE.md)** — persistent memory, tool capabilities, orchestration, delegation, and verification gates.
-3. **[Elison’s World](https://github.com/emorban/elison-world-website)** — a live frontend product with React/TypeScript, motion, prerendering, accessibility checks, and CI.
+3. **[SongSplit](https://github.com/ElisonInc/songsplit-app)** — a live music-tech product with Supabase RLS hardening and a security-boundary CI gate: [songsplit.org](https://songsplit.org).
 
 The portfolio intentionally separates **production systems, public engineering artifacts, live products, and prototypes** so project status is explicit rather than implied.
 
@@ -24,7 +24,7 @@ The portfolio intentionally separates **production systems, public engineering a
 | --- | --- | --- | --- |
 | **[DevHouse AI](https://github.com/emorban/devhouse-ai)** · [Live](https://devhouseai.com) | Product + sanitized engineering portfolio | Voice AI, lead orchestration, CRM workflows, booking, consent, reliability, and operational visibility. | TypeScript, React, Astro, PostgreSQL, Retell, Twilio, OpenAI, Twenty CRM, Vercel |
 | **[Eclipse AI](https://github.com/emorban/eclipse-ai)** | Sanitized public architecture portfolio | Persistent agentic AI architecture: durable memory, capability-aware tools, multi-agent orchestration, verification, and safe local automation. | Python, agents, memory systems, tool routing, verification, orchestration |
-| **[Elison’s World](https://github.com/emorban/elison-world-website)** · [Live](https://elisonworld.com) | Live creative-tech product | Cinematic artist web experience with prerendering, motion, accessibility, performance checks, and reusable content architecture. | React 19, TypeScript, Vite, GSAP, Three.js, Playwright, Lighthouse |
+| **The Book of Eli** | In progress (private) | Artist archive and immersive web experience for *The Book of Eli / After Dark* — the successor to the archived [Elison’s World](https://github.com/emorban/elison-world-website). | React, TypeScript, React Server Components, Vite, Tailwind, Cloudflare Workers |
 | **[OneTime Studios](https://github.com/ElisonInc/onetime-studios)** | Experimental marketplace prototype | Two-sided marketplace design, auth, inventory, booking architecture, payments, and database security. | Next.js, TypeScript, Supabase, Clerk, Stripe Connect |
 | **[SongSplit](https://github.com/ElisonInc/songsplit-app)** · [Live](https://songsplit.org) | Beta / portfolio product | Music-tech workflow for documenting master/publishing ownership, agreement capture, authorization, record integrity, and exports. | JavaScript, Supabase, Realtime, PWA, SHA-256, jsPDF |
 
