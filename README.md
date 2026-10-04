@@ -6,7 +6,7 @@ I design and ship software at the intersection of **AI, SaaS, automation, and cr
 
 My work spans product strategy, system architecture, workflow design, integrations, implementation direction, code and agent-output review, end-to-end QA, production readiness, and shipping.
 
-> I use AI coding agents as development collaborators — I define the problem, architecture, constraints, and acceptance criteria; direct implementation; review the output; test the system; and iterate it toward production.
+> I build with AI coding agents as collaborators: I own the architecture, constraints, and acceptance criteria, and I verify the result end to end.
 
 ## For hiring teams
 
@@ -37,12 +37,6 @@ The portfolio intentionally separates **production systems, public engineering a
 **3. Direct implementation.** Break the system into concrete interfaces, schemas, acceptance criteria, and testable milestones; use both direct coding and AI-assisted development where appropriate.
 
 **4. Verify before calling it done.** Review code and behavior, test the real path end to end, inspect failures, and separate “built” from “actually working.”
-
-## How to evaluate my contribution
-
-Across these projects, my role is not limited to prompting a coding agent or reviewing a finished UI. I define product behavior and system boundaries, make architecture and workflow decisions, direct implementation, inspect code and outputs, test end-to-end behavior, investigate failures, and decide whether the result meets the acceptance criteria.
-
-That is the through-line across the portfolio: **product judgment + systems thinking + technical execution discipline**.
 
 ## Areas I work in
 
