@@ -2,7 +2,7 @@
 
 ### Technical Founder · AI Product & Systems
 
-I design and ship software at the intersection of **AI, SaaS, automation, and creative technology**. I’m the founder of **ELISON INC** and lead product and systems work for **DevHouse AI**, an AI automation platform for service businesses.
+I design and ship software at the intersection of **AI, SaaS, automation, and creative technology**. I founded **ELISON INC**, lead product and systems work for **DevHouse AI** (automation for service businesses), and build **ShortHouse** (vertical serialized entertainment).
 
 My work spans product strategy, system architecture, workflow design, integrations, implementation direction, code and agent-output review, end-to-end QA, production readiness, and shipping.
 
@@ -25,8 +25,10 @@ The portfolio intentionally separates **production systems, public engineering a
 | **[DevHouse AI](https://github.com/emorban/devhouse-ai)** · [Live](https://devhouseai.com) | Product + sanitized engineering portfolio | Voice AI, lead orchestration, CRM workflows, booking, consent, reliability, and operational visibility. | TypeScript, React, Astro, PostgreSQL, Retell, Twilio, OpenAI, Twenty CRM, Vercel |
 | **[Eclipse AI](https://github.com/emorban/eclipse-ai)** | Sanitized public architecture portfolio | Persistent agentic AI architecture: durable memory, capability-aware tools, multi-agent orchestration, verification, and safe local automation. | Python, agents, memory systems, tool routing, verification, orchestration |
 | **The Book of Eli** | In progress (private) | Artist archive and immersive web experience for *The Book of Eli / After Dark* — the successor to the archived [Elison’s World](https://github.com/emorban/elison-world-website). | React, TypeScript, React Server Components, Vite, Tailwind, Cloudflare Workers |
-| **[OneTime Studios](https://github.com/ElisonInc/onetime-studios)** | Experimental marketplace prototype | Two-sided marketplace design, auth, inventory, booking architecture, payments, and database security. | Next.js, TypeScript, Supabase, Clerk, Stripe Connect |
+| **[ShortHouse](https://shorthouse.app)** | Platform deployed; commercial launch pending (private repository) | Vertical episodic streaming, content operations, playback, monetization, and release-state safeguards. | Next.js, TypeScript, Drizzle/PostgreSQL, Mux, Stripe, Clerk |
 | **[SongSplit](https://github.com/ElisonInc/songsplit-app)** · [Live](https://songsplit.org) | Beta / portfolio product | Music-tech workflow for documenting master/publishing ownership, agreement capture, authorization, record integrity, and exports. | JavaScript, Supabase, Realtime, PWA, SHA-256, jsPDF |
+
+**Earlier prototype:** [OneTime Studios](https://github.com/ElisonInc/onetime-studios), a studio-booking marketplace; development is currently paused.
 
 ## How I build
 
